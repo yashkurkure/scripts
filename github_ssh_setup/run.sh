@@ -32,4 +32,6 @@ git config --list
 echo "Press enter to continue for SSH setup"
 read op
 
+#SSH Setup
+
 ssh-keygen -t rsa -b 4096 -C "$useremail"
