@@ -4,3 +4,4 @@
 #
 #
 cp -r /Users/yash/Library/Application\ Support/com.appflowy.appflowy.flutter/data/ ~/common/appflowy
+cp -r ~/.ssh/ ~/common/ssh
